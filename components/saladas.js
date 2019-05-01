@@ -6,7 +6,7 @@ export default class AssetExample extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Salada
+          Salada -big Mike
         </Text>
         <Image style={styles.logo} source={require('../assets/snack-icon.png')} />
       </View>
